@@ -19,4 +19,5 @@
 
 <hr>
 
-<img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-camisoraiz&color=551B72" alt="camila :: Visitor's Count" />
+
