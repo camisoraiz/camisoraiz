@@ -13,5 +13,10 @@
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-551B72?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-551B72?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-551B72?style=for-the-badge&logo=javascript&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-551B72?style=for-the-badge&logo=ruby&logoColor=white)
+
+<hr>
+
+<img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
